@@ -1,0 +1,22 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" fill="#f0f2f5" stroke="#dcdcdc" stroke-width="1"/>
+
+  <path d="M100 30 C 60 30, 40 70, 40 100 L 40 130 C 40 160, 70 180, 100 180 C 130 180, 160 160, 160 130 L 160 100 C 160 70, 140 30, 100 30 Z" fill="#333" stroke="#222"/>
+  <circle cx="100" cy="105" r="55" fill="#e0ac69" stroke="#c6955a"/> <circle cx="80" cy="95" r="6" fill="#111"/>
+  <circle cx="120" cy="95" r="6" fill="#111"/>
+  <ellipse cx="80" cy="92" rx="2" ry="3" fill="#fff" opacity="0.6"/> <ellipse cx="120" cy="92" rx="2" ry="3" fill="#fff" opacity="0.6"/>
+
+  <g id="mouth-closed" transform="translate(100, 135)">
+    <path d="M -15 0 Q 0 2, 15 0" stroke="#800000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <g id="mouth-open-small" transform="translate(300, 135)">
+    <ellipse cx="0" cy="0" rx="14" ry="6" fill="#800000" />
+    <path d="M -12 -2 Q 0 0, 12 -2" stroke="#fff" stroke-width="1.5" opacity="0.7"/> </g>
+
+  <g id="mouth-open-wide" transform="translate(500, 135)">
+    <ellipse cx="0" cy="0" rx="16" ry="14" fill="#600000" />
+    <ellipse cx="0" cy="3" rx="14" ry="11" fill="#800000" /> <path d="M -12 -6 Q 0 -4, 12 -6" stroke="#fff" stroke-width="2" opacity="0.9"/>
+  </g>
+
+</svg>
