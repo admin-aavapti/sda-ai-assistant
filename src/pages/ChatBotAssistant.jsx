@@ -5,7 +5,7 @@ import LISTENING_VID from "./listening.mp4";
 import THINKING_IMG from "./holding_mobile_image.png";
 
 // --- Constants ---
-const SERVER = 'https://0b6e-122-176-108-253.ngrok-free.app';
+const SERVER = 'https://sda-rag-api-hwapdnhbfsfdh9ef.centralindia-01.azurewebsites.net';
 const STT_LOCALE = 'en-US';
 
 const ASSETS = {
