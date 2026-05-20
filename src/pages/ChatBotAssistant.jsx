@@ -157,7 +157,7 @@ const ChatBotAssistant = () => {
         summarize: true
       });
 
-      alert("response - ", response)
+      // alert("response - ", response)
 
       const reply = response.data?.summary || "I'm sorry, I couldn't reach the health assistant.";
 
